@@ -1,0 +1,3 @@
+C:/Users/aryfa/Desktop/bizcpp 1/bizcpp/cmake-build-release/CMakeFiles/bizcpp.dir
+C:/Users/aryfa/Desktop/bizcpp 1/bizcpp/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/aryfa/Desktop/bizcpp 1/bizcpp/cmake-build-release/CMakeFiles/rebuild_cache.dir
